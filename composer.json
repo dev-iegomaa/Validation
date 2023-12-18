@@ -1,0 +1,18 @@
+{
+    "name": "dev-iegomaa/php_validation",
+    "description": "is a small php class handle validation by using regex, filter functions validation and sanitization",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DevIegomaa\\PhpValidation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dev-iegomaa",
+            "email": "dev.ibrahimesam67@gmail.com"
+        }
+    ],
+    "require": {}
+}
